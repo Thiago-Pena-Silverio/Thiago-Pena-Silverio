@@ -3,11 +3,11 @@
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
   Hello World, &lt;I'm Thiago/&gt; !
-  <a>
+  <a  target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
----
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22yb4kkwrecgqin3fwchpzr2q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22yb4kkwrecgqin3fwchpzr2q&redirect=true)
 
