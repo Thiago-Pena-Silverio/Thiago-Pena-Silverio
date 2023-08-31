@@ -14,7 +14,6 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-
 <br>
 
 - A passionate Self-taught Front-end developer
@@ -22,7 +21,6 @@
 - Currently learning Web Development by Self
 - Personal website [link](https://www.0xabdulkhalid.ml)
 - This is [my resume](https://read.cv/0xabdulkhalid)
-
 
 ---
 
