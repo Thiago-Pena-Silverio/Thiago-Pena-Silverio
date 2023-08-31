@@ -28,7 +28,7 @@
   <a href="https://github.com/Thiago-Pena-Silverio" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=lqrsljczcfsxnwmVCwVfxdTJKSLfgZXZPBSmQdbjkQrZQzxhnpJLwcsDRnPSLBlXmsKkckbtrnlgkvdhT" target="blank"><img align="center"
+  <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=DmwnWsmDPbhsLQfPSQfpBszzVfTFlvtrgGlMpQWGmdFVCsPLpwHZPnvlPzxQZQCBvTHxTrLJtPxl" target="blank"><img align="center"
       src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
   <a href="https://www.upwork.com/freelancers/~01b76da506f37dac94" target="blank"><img align="center"
