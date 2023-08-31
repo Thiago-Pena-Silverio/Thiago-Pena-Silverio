@@ -10,16 +10,20 @@
 
 <br/><br/>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22yb4kkwrecgqin3fwchpzr2q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22yb4kkwrecgqin3fwchpzr2q&redirect=true)
+
+(https://spotify-github-profile.vercel.app/api/view?uid=22yb4kkwrecgqin3fwchpzr2q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22yb4kkwrecgqin3fwchpzr2q&redirect=true)
 
 ## <picture><img" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
+- 🔭 I’m currently working on Frontend Web Development & Android Development.
+- 🌱 I’m currently learning Backend Development.
+- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
+- 🤔 I’m looking for help with Open source Contribution.
+- 💬 Ask me about Frontend and Android Development.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I 💖 to code 24x7.
 - This is [my resume](https://read.cv/0xabdulkhalid)
 
 ---
