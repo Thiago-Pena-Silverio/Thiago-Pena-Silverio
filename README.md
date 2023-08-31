@@ -8,16 +8,18 @@
   </a>
 </h1>
 
-<br/>
-<br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <p align="left"> 
-<h2>Visitor's count 👀 </h2>
-  <p><img src="https://profile-counter.glitch.me/{Thiago-Pena-Silverio}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
-  <br/>
-  <img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix" />
+  <h2>Visitor's count 👀 </h2>
+    <p><img src="https://profile-counter.glitch.me/{Thiago-Pena-Silverio}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+    <br/>
+    <img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix" />
 </p>
 
 <h2>Connect with me:</h2>
