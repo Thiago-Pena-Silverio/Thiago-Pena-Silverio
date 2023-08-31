@@ -8,6 +8,11 @@
   </a>
 </h1>
 
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22yb4kkwrecgqin3fwchpzr2q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=22yb4kkwrecgqin3fwchpzr2q&redirect=true)
+
+---
+<br/><br/>
+
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <br/><br/>
@@ -31,22 +36,11 @@
   <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=DmwnWsmDPbhsLQfPSQfpBszzVfTFlvtrgGlMpQWGmdFVCsPLpwHZPnvlPzxQZQCBvTHxTrLJtPxl" target="blank"><img align="center"
       src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"
       alt="Gmail" height="30" width="40" /></a>
-
 </p>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br/><br/><br/>
+<br/><br/><br/>
 
----
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22yb4kkwrecgqin3fwchpzr2q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=22yb4kkwrecgqin3fwchpzr2q&redirect=true)
 
-
+---
