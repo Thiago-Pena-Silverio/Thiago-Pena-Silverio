@@ -28,11 +28,11 @@
   <a href="https://github.com/Thiago-Pena-Silverio" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/viralrbhadeshiya" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+  <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=new" target="blank"><img align="center"
+      src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
   <a href="https://www.upwork.com/freelancers/~01b76da506f37dac94" target="blank"><img align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
+      src=""
       alt="Viral Bhadeshiya" height="30" width="auto" /></a>
 </p>
 
