@@ -19,8 +19,8 @@
 
 
 <p align="left"> 
-  <h4 align="">Visitor's count 👀</h4>
-  <p align=""><img src="https://profile-counter.glitch.me/{Thiago-Pena-Silverio}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+  <h4>Visitor's count 👀</h4>
+  <p><img src="https://profile-counter.glitch.me/{Thiago-Pena-Silverio}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
   <br/>
   <img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix" />
 </p>
