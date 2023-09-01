@@ -78,7 +78,7 @@
       <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
       <a href="#"><img alt="Dropbox" src ="https://img.shields.io/badge/Dropbox-%233B4D98.svg?&logo=Dropbox&logoColor=white"></a>
-      <a href="#"><img alt="Dropbox" src ="https://img.shields.io/badge/Mega-%23D90007.svg?&logo=Mega&logoColor=white"></a>
+      <a href="#"><img alt="Mega" src ="https://img.shields.io/badge/Mega-%23D90007.svg?&logo=Mega&logoColor=white"></a>
 
   </p>
 
@@ -101,7 +101,8 @@
       <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?&logo=adobe%20photoshop&logoColor=white"></a>
+      <a href="#"><img alt="Adobe photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?&logo=adobe%20photoshop&logoColor=white"></a>
+      <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&logo=figma&logoColor=white"></a>
 
   </p>
 </details>
