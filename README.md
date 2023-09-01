@@ -12,7 +12,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22yb4kkwrecgqin3fwchpzr2q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22yb4kkwrecgqin3fwchpzr2q&redirect=true)
 
-<img" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> **About me**
+
+<h2 align="right">
+<picture><img" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
 
@@ -24,7 +26,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
 - This is [my resume](https://read.cv/0xabdulkhalid)
-
+</h2>
 ---
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
