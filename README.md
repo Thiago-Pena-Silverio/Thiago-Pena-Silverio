@@ -10,11 +10,6 @@
 
 <br/><br/>
 
-<div align="right">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22yb4kkwrecgqin3fwchpzr2q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22yb4kkwrecgqin3fwchpzr2q&redirect=true)
-</div>
-
-
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 - 🔭 I’m currently working on Frontend Web Development & Android Development.
