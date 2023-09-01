@@ -32,7 +32,7 @@
 
 
 
-<summary><h2>🛠️ My Favorite Tools</h2></summary>
+<h2>🛠️ My Favorite Tools</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -108,7 +108,6 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <br/><br/>
-<br/><br/>
 
 <p align="left"> 
   <h2>Visitor's count 👀 </h2>
@@ -121,20 +120,14 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/thiago-pena/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Linkedin" height="30" width="40" /></a>
+      alt="Linkedin" height="30" width="40" /></a>&nbsp;&nbsp;
   <a href="https://github.com/Thiago-Pena-Silverio" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"
-      alt="GitHub" height="30" width="40" /></a>
+      alt="GitHub" height="30" width="40" /></a>&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=DmwnWsmDPbhsLQfPSQfpBszzVfTFlvtrgGlMpQWGmdFVCsPLpwHZPnvlPzxQZQCBvTHxTrLJtPxl" target="blank"><img align="center"
       src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"
-      alt="Gmail" height="30" width="40" /></a>
+      alt="Gmail" height="30" width="40" /></a>&nbsp;&nbsp;
 </p>
+<br><br>
+<a href="https://www.buymeacoffee.com/thiagopena"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 
-<br/><br/><br/>
-<br/><br/><br/>
-
-
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/thiagopena"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
