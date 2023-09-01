@@ -23,22 +23,10 @@
 <p ><h1 align="left"><strong>N O W &nbsp; P L A Y I N G</h1></strong></p>
 <br>
 <p align="left" >
-<div style="margin-left: 120px;">
-  
+<div style="margin-left: 100px;">
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22yb4kkwrecgqin3fwchpzr2q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22yb4kkwrecgqin3fwchpzr2q&redirect=true)
-  <h2>Visitor's count 👀 </h2>
-    <p><img src="https://profile-counter.glitch.me/{Thiago-Pena-Silverio}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
-    <img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix" />
-<h2>Connect with me:</h2>
-  <a href="https://www.linkedin.com/in/thiago-pena/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Linkedin" height="30" width="40" /></a>
-  <a href="https://github.com/Thiago-Pena-Silverio" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"
-      alt="GitHub" height="30" width="40" /></a>
-  <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=DmwnWsmDPbhsLQfPSQfpBszzVfTFlvtrgGlMpQWGmdFVCsPLpwHZPnvlPzxQZQCBvTHxTrLJtPxl" target="blank"><img align="center"
-      src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"
-      alt="Gmail" height="30" width="40" /></a>
+<img src="https://github.com/Ash-codes18/Ash-codes18/blob/main/images/head-phones.jpeg" align="right" width="445" height="450">
 </div>
 <br>
 
