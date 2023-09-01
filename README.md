@@ -82,7 +82,6 @@
       <a href="#"><img alt="Azure" src ="https://img.shields.io/badge/azure-%230072C6.svg?&logo=microsoftazure&logoColor=white"></a>
       <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/AWS-%23FF9900.svg?&logo=amazon-aws&logoColor=white"></a>
       <a href="#"><img alt="GitHub Pages" src ="https://img.shields.io/badge/github%20pages-121013?&logo=github&logoColor=white"></a>
-
   </p>
 
   <h3>💻 Software and Tools</h3>
@@ -107,7 +106,7 @@
       <a href="#"><img alt="Adobe photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?&logo=adobe%20photoshop&logoColor=white"></a>
       <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&logo=figma&logoColor=white"></a>
       <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?&logo=microsoft-excel&logoColor=white"></a>
-
+      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?&logo=notion&logoColor=white"></a>
   </p>
 </details>
 
