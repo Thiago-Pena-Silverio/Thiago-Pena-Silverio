@@ -81,6 +81,7 @@
       <a href="#"><img alt="Mega" src ="https://img.shields.io/badge/Mega-%23D90007.svg?&logo=Mega&logoColor=white"></a>
       <a href="#"><img alt="Azure" src ="https://img.shields.io/badge/azure-%230072C6.svg?&logo=microsoftazure&logoColor=white"></a>
       <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/AWS-%23FF9900.svg?&logo=amazon-aws&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Pages" src ="https://img.shields.io/badge/github%20pages-121013?&logo=github&logoColor=white"></a>
 
   </p>
 
