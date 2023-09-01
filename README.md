@@ -10,14 +10,11 @@
 
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 🔭 I’m currently working on Frontend Web Development & Android Development.
-- 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Frontend and Android Development.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I 💖 to code 24x7.
-- This is [my resume](https://read.cv/0xabdulkhalid)
+- 🔭 I'm currently working on back-end development and software development.
+- 🌱 I'm currently learning AWS.
+- 👯 I'm looking to collaborate with back-end developers to improve my skills.
+- 💬 Ask me about C or Python development.
+- ⚡ Fun fact: I 💖 to code and music
 
 ---
 
