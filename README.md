@@ -8,8 +8,6 @@
   </a>
 </h1>
 
-<br/><br/>
-
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 - 🔭 I’m currently working on Frontend Web Development & Android Development.
