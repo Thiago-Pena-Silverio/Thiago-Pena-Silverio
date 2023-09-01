@@ -10,6 +10,7 @@
 
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
+- ✨ I'm from São Paulo, Brasil
 - 🔭 I'm currently working on back-end development and software development.
 - 🌱 I'm currently learning AWS.
 - 👯 I'm looking to collaborate with back-end developers to improve my skills.
