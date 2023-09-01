@@ -16,8 +16,6 @@
 <a align="right">
 <picture><img" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<br>
-
 - 🔭 I’m currently working on Frontend Web Development & Android Development.
 - 🌱 I’m currently learning Backend Development.
 - 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
@@ -27,6 +25,7 @@
 - ⚡ Fun fact: I 💖 to code 24x7.
 - This is [my resume](https://read.cv/0xabdulkhalid)
 </a>
+
 ---
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
