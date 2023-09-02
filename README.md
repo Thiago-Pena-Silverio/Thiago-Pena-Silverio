@@ -15,7 +15,7 @@
 - 🌱 I'm currently learning AWS.
 - 👯 I'm looking to collaborate with back-end developers to improve my skills.
 - 💬 Ask me about C or Python development.
-- ⚡ Fun fact: I 💖 to code and music
+- ⚡ Fun fact: I 💖 to code and music.
 
 ---
 
