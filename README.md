@@ -20,7 +20,7 @@
 ---
 
 <br> <br><br>
-<p ><h1 align="left"><strong>N O W &nbsp; P L A Y I N G</h1></strong></p>
+<p ><h2 align="left"><strong>N O W &nbsp; P L A Y I N G</h2></strong></p>
 <br>
 <p align="left" >
 <div style="margin-left: 100px;">
