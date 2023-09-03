@@ -3,12 +3,12 @@
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
   Hello World, &lt;I'm Thiago/&gt; !
-  <a  target="_blank">
+  <a >
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
 
-<img src ="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" align="left" width = 50px> <h2>&nbsp;About Me</h2>
+ <img src ="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" align="left" width = 50px><h2>&nbsp; About Me </h2>
 - ✨ I'm from São Paulo, Brasil.
 - 🔭 I'm currently working on back-end development and software development.
 - 🌱 I'm currently learning AWS.
@@ -16,7 +16,8 @@
 - 💬 Ask me about C or Python development.
 - ⚡ Fun fact: I 💖 to code and music.
 
-<br> <br><br>
+<br> 
+
 <h2 align="left">🎧 Playing Now </h2>
 <br>
 <p align="left" >
@@ -26,7 +27,6 @@
   <img src="https://github.com/Ash-codes18/Ash-codes18/blob/main/images/head-phones.jpeg" align="right" width="445" height="450">
 </div>
   <!-- Connect with spotify: https://github.com/kittinan/spotify-github-profile -->
-
 
 <br>
 
