@@ -8,8 +8,7 @@
   </a>
 </h1>
 
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <h2> About Me </h2>
-
+<img src ="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" align="left" width = 50px> <h2>&nbsp;About Me</h2>
 - ✨ I'm from São Paulo, Brasil.
 - 🔭 I'm currently working on back-end development and software development.
 - 🌱 I'm currently learning AWS.
