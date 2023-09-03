@@ -17,8 +17,6 @@
 - 💬 Ask me about C or Python development.
 - ⚡ Fun fact: I 💖 to code and music.
 
----
-
 <br> <br><br>
 <h2 align="left">🎧 Playing Now </h2>
 <br>
