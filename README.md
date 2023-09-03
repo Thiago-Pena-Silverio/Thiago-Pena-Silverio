@@ -35,7 +35,7 @@
 <h2>🛠️ My Favorite Tools</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  <h2>👨‍💻 Programming and Markup Languages</h2>
+  <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
