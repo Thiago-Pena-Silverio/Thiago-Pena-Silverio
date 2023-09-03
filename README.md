@@ -20,7 +20,7 @@
 ---
 
 <br> <br><br>
-<p><h2 align="left">🎧 Playing now</h2></p>
+<h2 align="left">🎧 Playing Now </h2>
 <br>
 <p align="left" >
 <div style="margin-left: 100px;">
