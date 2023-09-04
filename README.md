@@ -10,7 +10,7 @@
 
  <img src ="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" align="left" width = 50px><h2>&nbsp; About Me </h2>
 - ✨ I'm from São Paulo, Brasil.
-- 🏫 I'm degree in SystemS Analysis and Development.
+- 🏫 I'm degree in Systems Analysis and Development.
 - 🔭 I'm currently working on back-end development and software development.
 - 🌱 I'm currently learning AWS.
 - 👯 I'm looking to collaborate with back-end developers to improve my skills.
@@ -49,7 +49,6 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
@@ -78,6 +77,7 @@
       <a href="#"><img alt="Mega" src ="https://img.shields.io/badge/Mega-%23D90007.svg?&logo=Mega&logoColor=white"></a>
       <a href="#"><img alt="Azure" src ="https://img.shields.io/badge/azure-%230072C6.svg?&logo=microsoftazure&logoColor=white"></a>
       <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/AWS-%23FF9900.svg?&logo=amazon-aws&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
