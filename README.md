@@ -4,7 +4,7 @@
   </a>
   Hello World, &lt;I'm Thiago/&gt; !
   <a >
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px"/>
   </a>
 </h1>
 
@@ -116,7 +116,7 @@
   <h2>Visitor's count 👀 </h2>
     <p><img src="https://profile-counter.glitch.me/{Thiago-Pena-Silverio}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
     <br/>
-    <img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix" />
+    <img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix"/>
 </p>
 
 <h2>Connect with me:</h2>
