@@ -3,12 +3,12 @@
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
   Hello World, &lt;I'm Thiago/&gt; !
-  <a >
+  <a>
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px"/>
   </a>
 </h1>
 
- <img src ="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" align="left" width = 50px><h2>&nbsp; About Me </h2>
+ <img src ="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" align="left" width = 50px><h2>&nbsp; About Me</h2>
 - ✨ I'm from São Paulo, Brasil.
 - 🏫 I'm degree in Systems Analysis and Development.
 - 🔭 I'm currently working on back-end development and software development.
@@ -19,7 +19,7 @@
 
 <br> 
 
-<h2 align="left">🎧 Playing Now </h2>
+<h2 align="left">🎧 Playing Now</h2>
 <br>
 <p align="left" >
 <div style="margin-left: 100px;">
