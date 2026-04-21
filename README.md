@@ -16,14 +16,14 @@
 <h2>📖 About Me</h2>
 
 <!-- Bullet list with personal and professional info -->
-- ✨ I'm from São Paulo, Brasil.
+- ✨ I'm from São Paulo, Brazil.
 - 🏫 I hold a degree in Systems Analysis and Development.
-- 🔭 I'm currently working on back-end development and software development.
+- 📒 I'm currently pursuing a Higher Diploma in Software Development and Data Analytics in Ireland.
+- 🔭 I'm currently open to opportunities in back-end and software development.
 - 🌱 I'm currently learning AWS.
-- 👯 I'm looking to collaborate with back-end developers to improve my skills.
-- 💬 Ask me about C or Python development.
-- ⚡ Fun fact: I 💖 code and music.
-
+- 👯 I'm looking to collaborate with back-end developers and improve my skills.
+- 💬 Ask me about C and Python development.
+- ⚡ Fun fact: I love coding and music.
 <br>
 
 <!-- Social section with a 3-column table layout -->
