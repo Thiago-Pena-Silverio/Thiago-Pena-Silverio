@@ -18,8 +18,24 @@
 - 💬 Ask me about C or Python development.
 - ⚡ Fun fact: I 💖 to code and music.
 
-<br> 
+<br>
 
+<!-- Social -->
+<p align="center">
+  <a href="https://thiago-pena-silverio.github.io">
+    <strong>Visite meu site pessoal</strong><br>
+    <img src="images/globe.gif" alt="Globo" height="80">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/22yb4kkwrecgqin3fwchpzr2q?si=61903ad773db4a46">
+    <strong>Ouça uma música legal</strong><br>
+    <img src="images/music.gif" alt="Música" height="100">
+  </a>
+</p>
+
+<br>
 
 <h2>🛠️ My Favorite Tools</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
