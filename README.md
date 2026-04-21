@@ -102,7 +102,8 @@
   
 <!-- Subsection: databases and cloud services -->
   <h3>🗄️ Databases and Cloud </h3>
-
+  
+<!-- Row of database and cloud badges -->
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
@@ -113,9 +114,11 @@
       <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/AWS-%23FF9900.svg?&logo=amazon-aws&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
-
+  
+<!-- Subsection: software and tools -->
   <h3>💻 Software and Tools</h3>
-
+  
+<!-- Row of tool badges (VS Code, Git, OBS, etc.) -->
   <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
@@ -142,21 +145,28 @@
 
 <br/><br/>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<!-- Decorative animated GIF aligned to the right -->
+<p><img align="right" src="./Images/coding.gif" alt="coding" /></p>
 
+<!-- Contact section -->
 <h2>Connect with me:</h2>
+<!-- Social/contact icons aligned to the left -->
 <p align="left">
+<!-- LinkedIn profile -->
   <a href="https://www.linkedin.com/in/thiago-pena/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Linkedin" height="30" width="40" /></a>&nbsp;&nbsp;
+<!-- GitHub profile -->
   <a href="https://github.com/Thiago-Pena-Silverio" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"
       alt="GitHub" height="30" width="40" /></a>&nbsp;&nbsp;
+<!-- Gmail contact link -->
   <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=DmwnWsmDPbhsLQfPSQfpBszzVfTFlvtrgGlMpQWGmdFVCsPLpwHZPnvlPzxQZQCBvTHxTrLJtPxl" target="blank"><img align="center"
       src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"
       alt="Gmail" height="30" width="40" /></a>&nbsp;&nbsp;
 </p>
 <br><br>
+<!-- Buy Me a Coffee donation button -->
 <a href="https://www.buymeacoffee.com/thiagopena"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 
 
