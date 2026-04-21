@@ -161,15 +161,15 @@
 <!-- LinkedIn profile -->
   <a href="https://www.linkedin.com/in/thiago-pena/" target="blank"><img align="center"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Linkedin" height="30" width="40" /></a>&nbsp;&nbsp;
+      alt="Linkedin"/></a>&nbsp;&nbsp;
 <!-- GitHub profile -->
   <a href="https://github.com/Thiago-Pena-Silverio" target="blank"><img align="center"
       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub" height="30" width="40" /></a>&nbsp;&nbsp;
+      alt="GitHub" /></a>&nbsp;&nbsp;
 <!-- Gmail contact link -->
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhbtsbsgxptsBPMlvtWjfhdmpKKwVBDmLLdSBQrwWPBqZgVqWDsKsCstcmbwxJssRhCJfl" target="blank"><img align="center"
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail" height="30" width="40" /></a>&nbsp;&nbsp;
+      alt="Gmail" /></a>&nbsp;&nbsp;
 </p>
 <br><br>
 <!-- Buy Me a Coffee donation button -->
