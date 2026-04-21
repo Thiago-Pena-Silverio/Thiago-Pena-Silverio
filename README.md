@@ -21,19 +21,31 @@
 <br>
 
 <!-- Social -->
-<p align="center">
-  <a href="https://thiago-pena-silverio.github.io">
-    <strong>Visite meu site pessoal</strong><br>
-    <img src="images/globe.gif" alt="Globo" height="80">
-  </a>
-</p>
+<table align="center" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- Coluna 1 -->
+    <td align="center" width="240" style="border:1px solid #555; padding:10px;">
+      <a href="https://thiago-pena-silverio.github.io">
+        <strong>Visit my personal website</strong>
+      </a>
+      <br><br>
+      <a href="https://thiago-pena-silverio.github.io">
+        <img src="./Images/globe.gif" alt="Globe" height="90">
+      </a>
+    </td>
 
-<p align="center">
-  <a href="https://open.spotify.com/user/22yb4kkwrecgqin3fwchpzr2q?si=61903ad773db4a46">
-    <strong>Ouça uma música legal</strong><br>
-    <img src="images/music.gif" alt="Música" height="100">
-  </a>
-</p>
+  <!-- Coluna 2 -->
+  <td align="center" width="240" style="border:1px solid #555; border-left:none; padding:10px;">
+      <a href="https://open.spotify.com/user/22yb4kkwrecgqin3fwchpzr2q?si=334d92b34ad249c7">
+        <strong>Listen to cool music</strong>
+      </a>
+      <br><br>
+      <a href="https://open.spotify.com/user/22yb4kkwrecgqin3fwchpzr2q?si=334d92b34ad249c7">
+        <img src="./Images/music.gif" alt="Music" height="90">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
