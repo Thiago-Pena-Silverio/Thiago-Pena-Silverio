@@ -162,17 +162,26 @@
   <a href="https://www.linkedin.com/in/thiago-pena/" target="blank"><img align="center"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="Linkedin"/></a>&nbsp;&nbsp;
+  
 <!-- GitHub profile -->
   <a href="https://github.com/Thiago-Pena-Silverio" target="blank"><img align="center"
       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub" /></a>&nbsp;&nbsp;
+  
 <!-- Gmail contact link -->
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhbtsbsgxptsBPMlvtWjfhdmpKKwVBDmLLdSBQrwWPBqZgVqWDsKsCstcmbwxJssRhCJfl" target="blank"><img align="center"
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Gmail" /></a>&nbsp;&nbsp;
-</p>
-<br><br>
+
 <!-- Buy Me a Coffee donation button -->
 <a href="https://www.buymeacoffee.com/thiagopena"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+</p>
 
+<p align="left">
+  <img src="./Images/notepad.gif" alt="Site created with Notepad" height="31">
+  <img src="./Images/ie_logo.gif" alt="Best viewed in Internet Explorer" height="31">
+  <img src="./Images/noframes.gif" alt="Campaign Against Frames" height="31">
+
+
+</p>
 
