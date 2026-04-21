@@ -199,13 +199,6 @@
     alt="Total contributions"/>
 </p>
 
-<!-- Scrolling message -->
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Thanks+for+visiting+my+profile%2C+see+you+next+time!" alt="Typing SVG"/>
-  </a>
-</p>
-
 <!-- Buy Me a Coffee donation button -->
 <p align="left">
 <a href="https://www.buymeacoffee.com/thiagopena"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
@@ -216,5 +209,12 @@
   <img src="./Images/notepad.gif" alt="Site created with Notepad" height="31">
   <img src="./Images/ie_logo.gif" alt="Best viewed in Internet Explorer" height="31">
   <img src="./Images/noframes.gif" alt="Campaign Against Frames" height="31">
+</p>
+
+<!-- Scrolling message -->
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Thanks+for+visiting+my+profile%2C+see+you+next+time!" alt="Typing SVG"/>
+  </a>
 </p>
 
