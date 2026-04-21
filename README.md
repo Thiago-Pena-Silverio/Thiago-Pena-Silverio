@@ -214,11 +214,11 @@
 <!-- Scrolling message -->
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Thanks+for+visiting+my+profile%2C+see+you+next+time!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=5150&pause=1000&color=00FF00&width=550&lines=Thanks+for+visiting+my+profile%2C+see+you+next+time!" alt="Typing SVG" />
   </a>
 </p>
 
-
+<!-- Snake Gif -->
 <p align="center">
   <img src="https://github.com/Thiago-Pena-Silverio/Thiago-Pena-Silverio/blob/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
