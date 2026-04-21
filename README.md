@@ -1,17 +1,21 @@
 <!-- Main title centered with animated GIFs on both sides -->
 <h1 align="center">
-  <!-- Earth GIF on the left of the text -->
+<!-- Earth GIF on the left of the text -->
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
+<!-- Main introduction text -->
   Hello World, &lt;I'm Thiago/&gt; !
   <a>
+<!-- Waving GIF on the right of the text -->
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px"/>
   </a>
 </h1>
 
+<!-- "About Me" section with a book icon -->
 <h2>📖 About Me</h2>
 
+<!-- Bullet list with personal and professional info -->
 - ✨ I'm from São Paulo, Brasil.
 - 🏫 I hold a degree in Systems Analysis and Development.
 - 🔭 I'm currently working on back-end development and software development.
@@ -22,26 +26,30 @@
 
 <br>
 
-<!-- Social -->
+<!-- Social section with a 2‑column table layout -->
 <table align="center" cellspacing="0" cellpadding="0">
   <tr>
-    <!-- Coluna 1 -->
+<!-- Column 1: personal website link with globe GIF -->
     <td align="center" width="240" style="border:1px solid #555; padding:10px;">
+<!-- Title/link to personal website -->
       <a href="https://thiago-pena-silverio.github.io">
         <strong>Visit my personal website</strong>
       </a>
       <br><br>
+<!-- Globe GIF that also links to the website -->
       <a href="https://thiago-pena-silverio.github.io">
         <img src="./Images/globe.gif" alt="Globe" height="90">
       </a>
     </td>
 
-  <!-- Coluna 2 -->
+<!-- Column 2: Spotify link with music GIF -->
   <td align="center" width="240" style="border:1px solid #555; border-left:none; padding:10px;">
+<!-- Title/link to Spotify profile or playlist -->
       <a href="https://open.spotify.com/user/22yb4kkwrecgqin3fwchpzr2q?si=334d92b34ad249c7">
         <strong>Listen to cool music</strong>
       </a>
       <br><br>
+<!-- Music GIF that links to the same Spotify URL -->
       <a href="https://open.spotify.com/user/22yb4kkwrecgqin3fwchpzr2q?si=334d92b34ad249c7">
         <img src="./Images/music.gif" alt="Music" height="90">
       </a>
@@ -51,11 +59,14 @@
 
 <br>
 
+<!-- Section for favorite tools -->
 <h2>🛠️ My Favorite Tools</h2>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
+<!-- Subsection: programming and markup languages -->
   <h3>👨‍💻 Programming and Markup Languages</h3>
-
+  
+<!-- Row of language badges (Assembly, C, C++, C#, CSS, HTML, etc.) -->
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -70,9 +81,11 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
   </p>
-
+  
+<!-- Subsection: frameworks and libraries -->
   <h3>🧰 Frameworks and Libraries</h3>
-
+  
+<!-- Row of framework badges (Arduino, Bootstrap, Flask, React, etc.) -->
   <p>
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
@@ -86,7 +99,8 @@
       <a href="#"><img alt="Slim" src="https://custom-icon-badges.demolab.com/badge/Slim-74a045.svg?logo=slim-php"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
   </p>
-
+  
+<!-- Subsection: databases and cloud services -->
   <h3>🗄️ Databases and Cloud </h3>
 
   <p>
