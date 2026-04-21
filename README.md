@@ -2,13 +2,13 @@
 <h1 align="center">
 <!-- Earth GIF on the left of the text -->
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+    <img src="./Images/earth.gif" width="24px" style="max-width:100%;">
   </a>
 <!-- Main introduction text -->
   Hello World, &lt;I'm Thiago/&gt; !
   <a>
 <!-- Waving GIF on the right of the text -->
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px"/>
+    <img src="./Images/hi.gif" width="40px"/>
   </a>
 </h1>
 
