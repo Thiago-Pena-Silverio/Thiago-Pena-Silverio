@@ -221,11 +221,3 @@
 <p align="center">
   <img src="https://github.com/Thiago-Pena-Silverio/Thiago-Pena-Silverio/blob/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
-
-
-
-
-
-
-
-
