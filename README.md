@@ -32,12 +32,12 @@
 <!-- Column 1: personal website link with globe GIF -->
     <td align="center" width="240" style="border:1px solid #555; padding:10px;">
 <!-- Title/link to personal website -->
-      <a href="https://thiago-pena-silverio.github.io">
+      <a href="https://thiago-pena-silverio.github">
         <strong>Visit my personal website</strong>
       </a>
       <br><br>
 <!-- Globe GIF that also links to the website -->
-      <a href="https://thiago-pena-silverio.github.io">
+      <a href="https://thiago-pena-silverio.github">
         <img src="./Images/globe.gif" alt="Globe" height="90">
       </a>
     </td>
