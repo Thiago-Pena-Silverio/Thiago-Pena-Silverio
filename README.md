@@ -26,46 +26,40 @@
 
 <br>
 
-<!-- Social section with a 3‑column table layout -->
+<!-- Social section with a 3-column table layout -->
 <table align="center" cellspacing="0" cellpadding="0">
   <tr>
-<!-- Column 1: personal website link with globe GIF -->
-    <td align="center" width="240" style="border:1px solid #555; padding:10px;">
-<!-- Title/link to personal website -->
+<!-- Column 1 -->
+    <td align="center" valign="top" width="220" style="border:1px solid #555; padding:10px;">
       <a href="https://github.com/Thiago-Pena-Silverio">
         <strong>Visit my personal website</strong>
       </a>
       <br><br>
-<!-- Globe GIF that also links to the website -->
       <a href="https://github.com/Thiago-Pena-Silverio">
-        <img src="./Images/globe.gif" alt="Globe" height="90">
+        <img src="./Images/globe.gif" alt="Globe" height="200">
       </a>
     </td>
 
-<!-- Column 2: Spotify link with music GIF -->
-   <td align="center" width="240" style="border:1px solid #555; border-left:none; padding:10px;">
-<!-- Title/link to Spotify profile or playlist -->
+<!-- Column 2 -->
+  <td align="center" valign="top" width="220" style="border:1px solid #555; border-left:none; padding:10px;">
       <a href="https://open.spotify.com/user/22yb4kkwrecgqin3fwchpzr2q?si=334d92b34ad249c7">
         <strong>Listen to cool music</strong>
       </a>
       <br><br>
-<!-- Music GIF that links to the same Spotify URL -->
       <a href="https://open.spotify.com/user/22yb4kkwrecgqin3fwchpzr2q?si=334d92b34ad249c7">
-        <img src="./Images/music.gif" alt="Music" height="90">
+        <img src="./Images/music.gif" alt="Music" height="200">
       </a>
     </td>
 
-<!-- Column 3: Random dev joke card -->
-  <td align="center" width="260" style="border:1px solid #555; border-left:none; padding:10px;">
-<!-- Title for the jokes card -->
-      <strong>Need a dev joke?</strong>
-      <br><br>
-<!-- Jokes card from ABSphreak/readme-jokes -->
+<!-- Column 3 -->
+  <td align="center" valign="top" width="250" style="border:1px solid #555; border-left:none; padding:10px;">
       <a href="https://github.com/ABSphreak/readme-jokes">
-        <img
-          src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula"
-          alt="Random dev joke"
-        />
+        <strong>Need a dev joke?</strong>
+      </a>
+      <br><br>
+      <a href="https://github.com/ABSphreak/readme-jokes">
+        <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark"
+          alt="Random dev joke"/>
       </a>
     </td>
   </tr>
@@ -217,7 +211,5 @@
   <img src="./Images/notepad.gif" alt="Site created with Notepad" height="31">
   <img src="./Images/ie_logo.gif" alt="Best viewed in Internet Explorer" height="31">
   <img src="./Images/noframes.gif" alt="Campaign Against Frames" height="31">
-
-
 </p>
 
