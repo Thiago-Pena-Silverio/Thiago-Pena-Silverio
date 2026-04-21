@@ -160,15 +160,15 @@
 <p align="left">
 <!-- LinkedIn profile -->
   <a href="https://www.linkedin.com/in/thiago-pena/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="Linkedin" height="30" width="40" /></a>&nbsp;&nbsp;
 <!-- GitHub profile -->
   <a href="https://github.com/Thiago-Pena-Silverio" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"
+      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub" height="30" width="40" /></a>&nbsp;&nbsp;
 <!-- Gmail contact link -->
-  <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=DmwnWsmDPbhsLQfPSQfpBszzVfTFlvtrgGlMpQWGmdFVCsPLpwHZPnvlPzxQZQCBvTHxTrLJtPxl" target="blank"><img align="center"
-      src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhbtsbsgxptsBPMlvtWjfhdmpKKwVBDmLLdSBQrwWPBqZgVqWDsKsCstcmbwxJssRhCJfl" target="blank"><img align="center"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Gmail" height="30" width="40" /></a>&nbsp;&nbsp;
 </p>
 <br><br>
