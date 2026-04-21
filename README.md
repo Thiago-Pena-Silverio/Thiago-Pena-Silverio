@@ -1,3 +1,4 @@
+<!-- Main title centered with animated GIFs on both sides -->
 <h1 align="center">
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
