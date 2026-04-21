@@ -166,7 +166,7 @@
 <br/><br/>
 
 <!-- Decorative animated GIF aligned to the right -->
-<p><img align="right" src="./Images/coding.gif" alt="coding" height="420"/></p>
+<p><img align="right" src="./Images/coding.gif" alt="coding" height="400"/></p>
 
 <!-- Contact section -->
 <h2>Connect with me:</h2>
