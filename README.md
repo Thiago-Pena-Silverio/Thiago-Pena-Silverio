@@ -68,6 +68,19 @@
   
 <!-- Row of language badges (Assembly, C, C++, C#, CSS, HTML, etc.) -->
   <p>
+      <a href="#"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+      <a href="#"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+      <a href="#"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
+      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white"></a>
+      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+      <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+      <a href="#"><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
+      <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+      <a href="#"><img alt="C" src=""></a>
+      <a href="#"><img alt="C" src=""></a>
+      <a href="#"><img alt="C" src=""></a>
+      
+
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
@@ -107,7 +120,7 @@
       <a href="#"><img alt="Mega" src ="https://img.shields.io/badge/Mega-%23D90007.svg?&logo=Mega&logoColor=white"></a>
       <a href="#"><img alt="Azure" src ="https://img.shields.io/badge/azure-%230072C6.svg?&logo=microsoftazure&logoColor=white"></a>
       <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/AWS-%23FF9900.svg?&logo=amazon-aws&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
   
 <!-- Subsection: software and tools -->
