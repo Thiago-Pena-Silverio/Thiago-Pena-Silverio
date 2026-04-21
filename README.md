@@ -79,7 +79,6 @@
 <!-- Some badges are from https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- Some badges are from https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages- -->
 
-
 <!-- Subsection: programming and markup languages -->
   <h3>👨‍💻 Programming and Markup Languages</h3>
   
@@ -222,3 +221,11 @@
 <p align="center">
   <img src="https://github.com/Thiago-Pena-Silverio/Thiago-Pena-Silverio/blob/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
+
+
+
+
+
+
+
+
