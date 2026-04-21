@@ -19,17 +19,6 @@
 
 <br> 
 
-<h2 align="left">🎧 Playing Now</h2>
-<br>
-<p align="left" >
-<div style="margin-left: 100px;">
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22yb4kkwrecgqin3fwchpzr2q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22yb4kkwrecgqin3fwchpzr2q&redirect=true)
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="420" height="440">
-</div>
-  <!-- Connect with spotify: https://github.com/kittinan/spotify-github-profile -->
-
-<br>
 
 <h2>🛠️ My Favorite Tools</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -114,8 +103,8 @@
 
 <p align="left"> 
   <h2>Visitor's count 👀 </h2>
-    <p><img src="https://profile-counter.glitch.me/{Thiago-Pena-Silverio}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
-    <br/>
+    <p><img src="(https://badges.pufler.dev/visits/{Thiago-Pena-Silverio}/{README.md}) :: Visitor's Count" /></p>
+    <br/> 
     <img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix"/>
 </p>
 
