@@ -8,7 +8,8 @@
   </a>
 </h1>
 
- <img src ="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" align="left" width = 50px><h2>&nbsp; About Me</h2>
+<h2>📖 About Me</h2>
+
 - ✨ I'm from São Paulo, Brasil.
 - 🏫 I hold a degree in Systems Analysis and Development.
 - 🔭 I'm currently working on back-end development and software development.
