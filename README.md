@@ -101,13 +101,6 @@
 
 <br/><br/>
 
-<p align="left"> 
-  <h2>Visitor's count 👀 </h2>
-    <p><img src="(https://badges.pufler.dev/visits/{Thiago-Pena-Silverio}/{README.md}) :: Visitor's Count" /></p>
-    <br/> 
-    <img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix"/>
-</p>
-
 <h2>Connect with me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/thiago-pena/" target="blank"><img align="center"
