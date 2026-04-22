@@ -38,7 +38,7 @@
       <br><br>
 <!-- GIF that also links to the website -->
       <a href="https://github.com/Thiago-Pena-Silverio">
-        <img src="./Images/globe.gif" alt="Globe" height="200">
+        <img src="./Images/globe.gif" alt="Globe" height="180">
       </a>
     </td>
 
@@ -51,7 +51,7 @@
       <br><br>
 <!-- Music GIF that links to the same Spotify URL -->
       <a href="https://open.spotify.com/user/22yb4kkwrecgqin3fwchpzr2q?si=334d92b34ad249c7">
-        <img src="./Images/music.gif" alt="Music" height="200">
+        <img src="./Images/music.gif" alt="Music" height="180">
       </a>
     </td>
 
