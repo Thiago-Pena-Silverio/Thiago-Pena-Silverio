@@ -168,7 +168,7 @@
 <p><img align="right" src="./Images/coding.gif" alt="coding" height="400"/></p>
 
 <!-- Contact section -->
-<h2>📫Connect with me:</h2>
+<h2>📫 Connect with me:</h2>
 <!-- Social/contact icons aligned to the left -->
 <p align="left">
 <!-- LinkedIn profile -->
