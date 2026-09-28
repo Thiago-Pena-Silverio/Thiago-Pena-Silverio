@@ -26,53 +26,6 @@
 - 🎵 Fun fact: I love coding and music.
 <br>
 
-<!-- Social section with a 3-column table layout -->
-<table align="center" cellspacing="0" cellpadding="0">
-  <tr>
-<!-- Column 1: personal website link with GIF -->
-    <td align="center" valign="top" width="220" style="border:1px solid #555; padding:10px;">
-<!-- Title/link to personal website -->
-      <a href="https://github.com/Thiago-Pena-Silverio">
-        <strong>Visit my personal website</strong>
-      </a>
-      <br><br>
-<!-- GIF that also links to the website -->
-      <a href="https://github.com/Thiago-Pena-Silverio">
-        <img src="./Images/globe.gif" alt="Globe" height="180">
-      </a>
-    </td>
-
-<!-- Column 2: Spotify link with music GIF -->
-  <td align="center" valign="top" width="220" style="border:1px solid #555; border-left:none; padding:10px;">
-<!-- Title/link to Spotify profile or playlist -->
-      <a href="https://open.spotify.com/user/22yb4kkwrecgqin3fwchpzr2q?si=334d92b34ad249c7">
-        <strong>Listen to cool music</strong>
-      </a>
-      <br><br>
-<!-- Music GIF that links to the same Spotify URL -->
-      <a href="https://open.spotify.com/user/22yb4kkwrecgqin3fwchpzr2q?si=334d92b34ad249c7">
-        <img src="./Images/music.gif" alt="Music" height="180">
-      </a>
-    </td>
-
-<!-- Column 3: Random dev joke card -->
-  <td align="center" valign="top" width="250" style="border:1px solid #555; border-left:none; padding:10px;">
-      <a href="https://github.com/ABSphreak/readme-jokes">
-<!-- Title for the jokes card -->
-        <strong>Need a dev joke?</strong>
-      </a>
-      <br><br>
-<!-- Jokes card from ABSphreak/readme-jokes -->
-      <a href="https://github.com/ABSphreak/readme-jokes">
-        <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark"
-          alt="Random dev joke"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <!-- Section for favorite tools -->
 <h2>🛠️ My Favorite Tools</h2>
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -161,6 +114,52 @@
       <a href="#"><img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
+
+<br>
+<!-- Social section with a 3-column table layout -->
+<table align="center" cellspacing="0" cellpadding="0">
+  <tr>
+<!-- Column 1: personal website link with GIF -->
+    <td align="center" valign="top" width="220" style="border:1px solid #555; padding:10px;">
+<!-- Title/link to personal website -->
+      <a href="https://github.com/Thiago-Pena-Silverio">
+        <strong>Visit my personal website</strong>
+      </a>
+      <br><br>
+<!-- GIF that also links to the website -->
+      <a href="https://github.com/Thiago-Pena-Silverio">
+        <img src="./Images/globe.gif" alt="Globe" height="180">
+      </a>
+    </td>
+
+<!-- Column 2: Spotify link with music GIF -->
+  <td align="center" valign="top" width="220" style="border:1px solid #555; border-left:none; padding:10px;">
+<!-- Title/link to Spotify profile or playlist -->
+      <a href="https://open.spotify.com/user/22yb4kkwrecgqin3fwchpzr2q?si=334d92b34ad249c7">
+        <strong>Listen to cool music</strong>
+      </a>
+      <br><br>
+<!-- Music GIF that links to the same Spotify URL -->
+      <a href="https://open.spotify.com/user/22yb4kkwrecgqin3fwchpzr2q?si=334d92b34ad249c7">
+        <img src="./Images/music.gif" alt="Music" height="180">
+      </a>
+    </td>
+
+<!-- Column 3: Random dev joke card -->
+  <td align="center" valign="top" width="250" style="border:1px solid #555; border-left:none; padding:10px;">
+      <a href="https://github.com/ABSphreak/readme-jokes">
+<!-- Title for the jokes card -->
+        <strong>Need a dev joke?</strong>
+      </a>
+      <br><br>
+<!-- Jokes card from ABSphreak/readme-jokes -->
+      <a href="https://github.com/ABSphreak/readme-jokes">
+        <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark"
+          alt="Random dev joke"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
