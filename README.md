@@ -19,10 +19,10 @@
 - ✨ I'm from São Paulo, Brazil.
 - 🏫 I hold a degree in Systems Analysis and Development.
 - 📊 I'm currently completing a Higher Diploma in Data Analytics in Ireland.
-- 💻 I have a background in Software Development and IT.
-- 🐍 I'm currently focusing on Python, SQL and Data Analytics.
-- ☁️ I'm currently learning AWS and exploring Cloud technologies.
-- 🤖 I'm interested in Artificial Intelligence and Machine Learning.
+- 💻 My background is in Software Development and IT.
+- 🐍 I'm focusing on Python, SQL and Data Analytics.
+- ☁️ I'm expanding my knowledge of Cloud technologies with AWS.
+- 🤖 I'm exploring Artificial Intelligence and Machine Learning.
 - 🎵 Fun fact: I love coding and music.
 <br>
 
