@@ -18,12 +18,12 @@
 <!-- Bullet list with personal and professional info -->
 - ✨ I'm from São Paulo, Brazil.
 - 🏫 I hold a degree in Systems Analysis and Development.
-- 📒 I'm currently pursuing a Higher Diploma in Software Development and Data Analytics in Ireland.
-- 🔭 I'm currently open to opportunities in back-end and software development.
-- 🌱 I'm currently learning AWS.
-- 👯 I'm looking to collaborate with back-end developers and improve my skills.
-- 💬 Ask me about C and Python development.
-- ⚡ Fun fact: I love coding and music.
+- 📊 I'm currently completing a Higher Diploma in Data Analytics in Ireland.
+- 💻 I have a background in Software Development and IT.
+- 🐍 I'm currently focusing on Python, SQL and Data Analytics.
+- ☁️ I'm currently learning AWS and exploring Cloud technologies.
+- 🤖 I'm interested in Artificial Intelligence and Machine Learning.
+- 🎵 Fun fact: I love coding and music.
 <br>
 
 <!-- Social section with a 3-column table layout -->
