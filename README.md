@@ -116,14 +116,20 @@
 </details>
 
 <br>
+
+<br/><br/>
+
+<!-- Contact section -->
+<h2>📫 Connect with me:</h2>
+
 <!-- Social section with a 3-column table layout -->
-<table align="center" cellspacing="0" cellpadding="0">
+<table align="right" cellspacing="0" cellpadding="0">
   <tr>
 <!-- Column 1: personal website link with GIF -->
     <td align="center" valign="top" width="220" style="border:1px solid #555; padding:10px;">
 <!-- Title/link to personal website -->
       <a href="https://github.com/Thiago-Pena-Silverio">
-        <strong>Visit my personal website</strong>
+        <strong>Visit my Linkedin</strong>
       </a>
       <br><br>
 <!-- GIF that also links to the website -->
@@ -145,43 +151,8 @@
       </a>
     </td>
 
-<!-- Column 3: Random dev joke card -->
-  <td align="center" valign="top" width="250" style="border:1px solid #555; border-left:none; padding:10px;">
-      <a href="https://github.com/ABSphreak/readme-jokes">
-<!-- Title for the jokes card -->
-        <strong>Need a dev joke?</strong>
-      </a>
-      <br><br>
-<!-- Jokes card from ABSphreak/readme-jokes -->
-      <a href="https://github.com/ABSphreak/readme-jokes">
-        <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark"
-          alt="Random dev joke"/>
-      </a>
-    </td>
   </tr>
 </table>
-
-<br/><br/>
-
-<!-- Decorative animated GIF aligned to the right -->
-<p><img align="right" src="./Images/coding.gif" alt="coding" height="400"/></p>
-
-<!-- Contact section -->
-<h2>📫 Connect with me:</h2>
-<!-- Social/contact icons aligned to the left -->
-<p align="left">
-<!-- LinkedIn profile -->
-  <a href="https://www.linkedin.com/in/thiago-pena/" target="blank"><img align="center"
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Linkedin"/></a>&nbsp;&nbsp;
-<!-- GitHub profile -->
-  <a href="https://github.com/Thiago-Pena-Silverio" target="blank"><img align="center"
-      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub" /></a>&nbsp;&nbsp;
-<!-- Gmail contact link -->
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhbtsbsgxptsBPMlvtWjfhdmpKKwVBDmLLdSBQrwWPBqZgVqWDsKsCstcmbwxJssRhCJfl" target="blank"><img align="center"
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail" /></a>&nbsp;&nbsp;
 
 <!-- Profile views counter -->
 <p align="left">
@@ -220,3 +191,5 @@
 <p align="center">
   <img src="https://github.com/Thiago-Pena-Silverio/Thiago-Pena-Silverio/blob/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
+
+
