@@ -150,11 +150,6 @@
     alt="Total contributions"/>
 </p>
 
-<!-- Buy Me a Coffee donation button -->
-<p align="left">
-<a href="https://www.buymeacoffee.com/thiagopena"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-</p>
-
 <!-- Retro badges -->
 <p align="left">
   <img src="./Images/notepad.gif" alt="Site created with Notepad" height="31">
