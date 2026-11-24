@@ -9,6 +9,7 @@ I'm based in Dublin, Ireland. I hold a degree in Systems Analysis and Developmen
 
 ## Selected projects
 
+- **[NYC yellow taxi trip analysis](projects/nyc-yellow-taxi.md)** · A two-person data project using Microsoft Fabric, PySpark and Power BI. We compared almost 78 million trips and found that the average recorded charge rose from $21.66 to $28.46 while average journey time held near 17 minutes.
 - **[A University Student’s Choice](https://github.com/Thiago-Pena-Silverio/STUDENT-CHOICE-GAME)** · A decision game written in C with Allegro 5. Players work towards graduation while balancing money, intelligence and fame across 48 simulated months.
 - **[Top Burguer](https://github.com/Thiago-Pena-Silverio/TOP-BURGUER-WEBSITE)** · A multi-page HTML and CSS site for a fictional restaurant. Visitors can browse menu items and ingredients, read reviews and find restaurant information in Portuguese.
 - **[Digital logic with Logisim](https://github.com/Thiago-Pena-Silverio/LOGISIM-EXERCISES)** · Four circuit exercises, including a three-bit adder assembled from one-bit adders and a signal-level controller.
