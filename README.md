@@ -1,33 +1,28 @@
-<!-- Main title centered with animated GIFs on both sides -->
+<!-- Portfolio introduction -->
 <h1 align="center">
-<!-- Earth GIF on the left of the text -->
-  <a target="_blank">
-    <img src="./Images/earth.gif" width="24px" style="max-width:100%;">
-  </a>
-<!-- Main introduction text -->
-  Hello World, &lt;I'm Thiago/&gt; !
-  <a>
-<!-- Waving GIF on the right of the text -->
-    <img src="./Images/hi.gif" width="40px"/>
-  </a>
+  <img src="./Images/earth.gif" width="24" alt="">
+  Thiago Pena Silverio
+  <img src="./Images/hi.gif" width="40" alt="">
 </h1>
 
-<!-- "About Me" section with a book icon -->
-<h2>📖 About Me</h2>
+I'm based in Dublin, Ireland. I hold a degree in Systems Analysis and Development and I'm completing a Higher Diploma in Data Analytics. I'm looking for an entry-level role where I can work with data, software or IT systems.
 
-<!-- Bullet list with personal and professional info -->
-- ✨ I'm from São Paulo, Brazil.
-- 🏫 I hold a degree in Systems Analysis and Development.
-- 📊 I'm currently completing a Higher Diploma in Data Analytics in Ireland.
-- 💻 My background is in Software Development and IT.
-- 🐍 I'm focusing on Python, SQL and Data Analytics.
-- ☁️ I'm expanding my knowledge of Cloud technologies with AWS.
-- 🤖 I'm exploring Artificial Intelligence and Machine Learning.
-- 🎵 Fun fact: I love coding and music.
-<br>
+## Selected projects
+
+- **[A University Student’s Choice](https://github.com/Thiago-Pena-Silverio/STUDENT-CHOICE-GAME)** · A decision game written in C with Allegro 5. Players work towards graduation while balancing money, intelligence and fame across 48 simulated months.
+- **[Top Burguer](https://github.com/Thiago-Pena-Silverio/TOP-BURGUER-WEBSITE)** · A multi-page HTML and CSS site for a fictional restaurant. Visitors can browse menu items and ingredients, read reviews and find restaurant information in Portuguese.
+- **[Digital logic with Logisim](https://github.com/Thiago-Pena-Silverio/LOGISIM-EXERCISES)** · Four circuit exercises, including a three-bit adder assembled from one-bit adders and a signal-level controller.
+
+## About me
+
+I'm from São Paulo, Brazil. I'm focusing on Python and SQL for data analysis and exploring AWS, artificial intelligence and machine learning. Outside my studies, I enjoy music.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/thiago-pena/)
 
 <!-- Section for favorite tools -->
-<h2>🛠️ My Favorite Tools</h2>
+<details>
+<summary>Tools I use and technologies I’m exploring</summary>
+
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 <!-- Some badges are from https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- Some badges are from https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages- -->
@@ -99,7 +94,8 @@
 </p>
 <br>
 
-<br/><br/>
+</details>
+
 
 <!-- Contact section -->
 <h2>📫 Connect with me:</h2>
@@ -110,12 +106,12 @@
 <!-- Column 1: personal website link with GIF -->
     <td align="center" valign="top" width="220" style="border:1px solid #555; padding:10px;">
 <!-- Title/link to personal website -->
-      <a href="https://github.com/Thiago-Pena-Silverio">
-        <strong>Visit my Linkedin</strong>
+      <a href="https://www.linkedin.com/in/thiago-pena/">
+        <strong>Visit my LinkedIn</strong>
       </a>
       <br><br>
 <!-- GIF that also links to the website -->
-      <a href="https://github.com/Thiago-Pena-Silverio">
+      <a href="https://www.linkedin.com/in/thiago-pena/">
         <img src="./Images/globe.gif" alt="Globe" height="180">
       </a>
     </td>
