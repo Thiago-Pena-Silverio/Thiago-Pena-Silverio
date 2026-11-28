@@ -137,26 +137,20 @@ I'm from São Paulo, Brazil. I'm focusing on Python and SQL for data analysis an
   </tr>
 </table>
 
-<!-- Profile views counter -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Thiago-Pena-Silverio&label=profile+views&color=brightgreen&style=flat-square"
-    alt="Profile views counter" />
-  
-<!-- Last commit badge -->
-  <img src="https://img.shields.io/github/last-commit/Thiago-Pena-Silverio/Thiago-Pena-Silverio?label=last%20commit&color=yellow&style=flat-square" 
-    alt="Last commit" />
+<p><img src="https://komarev.com/ghpvc/?username=Thiago-Pena-Silverio&label=profile+views&color=brightgreen&style=flat-square"
+    alt="Profile views counter" /></p>
 
-<!-- Total contributions badge -->
-  <img src="https://github-stats-badge.vercel.app/github/contrib/Thiago-Pena-Silverio/Thiago-Pena-Silverio?style=flat-square&color=007ec6"
-    alt="Total contributions"/>
-</p>
+<table align="center">
+  <tr>
+    <td width="280" align="left" valign="middle"><img src="https://img.shields.io/github/last-commit/Thiago-Pena-Silverio/Thiago-Pena-Silverio?label=last%20commit&color=yellow&style=flat-square" 
+    alt="Last commit" /></td>
+    <td width="300" align="center" valign="middle"><img src="./Images/notepad.gif" alt="Site created with Notepad" height="31"> <img src="./Images/ie_logo.gif" alt="Best viewed in Internet Explorer" height="31"> <img src="./Images/noframes.gif" alt="Campaign Against Frames" height="31"></td>
+    <td width="280"></td>
+  </tr>
+</table>
 
-<!-- Retro badges -->
-<p align="center">
-  <img src="./Images/notepad.gif" alt="Site created with Notepad" height="31">
-  <img src="./Images/ie_logo.gif" alt="Best viewed in Internet Explorer" height="31">
-  <img src="./Images/noframes.gif" alt="Campaign Against Frames" height="31">
-</p>
+<p><img src="https://github-stats-badge.vercel.app/github/contrib/Thiago-Pena-Silverio/Thiago-Pena-Silverio?style=flat-square&color=007ec6"
+    alt="Total contributions"/></p>
 
 <!-- Scrolling message -->
 <p align="left">
