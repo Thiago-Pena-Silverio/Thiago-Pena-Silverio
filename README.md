@@ -5,13 +5,6 @@
   <img src="./Images/hi.gif" width="40" alt="">
 </h1>
 
-<!-- Retro badges -->
-<p align="center">
-  <img src="./Images/notepad.gif" alt="Site created with Notepad" height="31">
-  <img src="./Images/ie_logo.gif" alt="Best viewed in Internet Explorer" height="31">
-  <img src="./Images/noframes.gif" alt="Campaign Against Frames" height="31">
-</p>
-
 I'm based in Dublin, Ireland. I hold a degree in Systems Analysis and Development and I'm completing a Higher Diploma in Data Analytics. I'm looking for an entry-level role where I can work with data, software or IT systems.
 
 ## Selected projects
@@ -156,6 +149,13 @@ I'm from São Paulo, Brazil. I'm focusing on Python and SQL for data analysis an
 <!-- Total contributions badge -->
   <img src="https://github-stats-badge.vercel.app/github/contrib/Thiago-Pena-Silverio/Thiago-Pena-Silverio?style=flat-square&color=007ec6"
     alt="Total contributions"/>
+</p>
+
+<!-- Retro badges -->
+<p align="center">
+  <img src="./Images/notepad.gif" alt="Site created with Notepad" height="31">
+  <img src="./Images/ie_logo.gif" alt="Best viewed in Internet Explorer" height="31">
+  <img src="./Images/noframes.gif" alt="Campaign Against Frames" height="31">
 </p>
 
 <!-- Scrolling message -->
