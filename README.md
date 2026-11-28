@@ -5,6 +5,13 @@
   <img src="./Images/hi.gif" width="40" alt="">
 </h1>
 
+<!-- Retro badges -->
+<p align="center">
+  <img src="./Images/notepad.gif" alt="Site created with Notepad" height="31">
+  <img src="./Images/ie_logo.gif" alt="Best viewed in Internet Explorer" height="31">
+  <img src="./Images/noframes.gif" alt="Campaign Against Frames" height="31">
+</p>
+
 I'm based in Dublin, Ireland. I hold a degree in Systems Analysis and Development and I'm completing a Higher Diploma in Data Analytics. I'm looking for an entry-level role where I can work with data, software or IT systems.
 
 ## Selected projects
@@ -102,4 +109,63 @@ I'm from São Paulo, Brazil. I'm focusing on Python and SQL for data analysis an
 
 </details>
 
-[My music on Spotify](https://open.spotify.com/user/22yb4kkwrecgqin3fwchpzr2q)
+<!-- Contact section -->
+<h2>📫 Connect with me:</h2>
+
+<!-- Social section with a 3-column table layout -->
+<table align="center" cellspacing="0" cellpadding="0">
+  <tr>
+<!-- Column 1: personal website link with GIF -->
+    <td align="center" valign="top" width="220" style="border:1px solid #555; padding:10px;">
+<!-- Title/link to personal website -->
+      <a href="https://www.linkedin.com/in/thiago-pena/">
+        <strong>Visit my LinkedIn</strong>
+      </a>
+      <br><br>
+<!-- GIF that also links to the website -->
+      <a href="https://www.linkedin.com/in/thiago-pena/">
+        <img src="./Images/globe.gif" alt="Globe" height="180">
+      </a>
+    </td>
+
+<!-- Column 2: Spotify link with music GIF -->
+  <td align="center" valign="top" width="220" style="border:1px solid #555; border-left:none; padding:10px;">
+<!-- Title/link to Spotify profile or playlist -->
+      <a href="https://open.spotify.com/user/22yb4kkwrecgqin3fwchpzr2q?si=334d92b34ad249c7">
+        <strong>Listen to cool music</strong>
+      </a>
+      <br><br>
+<!-- Music GIF that links to the same Spotify URL -->
+      <a href="https://open.spotify.com/user/22yb4kkwrecgqin3fwchpzr2q?si=334d92b34ad249c7">
+        <img src="./Images/music.gif" alt="Music" height="180">
+      </a>
+    </td>
+
+  </tr>
+</table>
+
+<!-- Profile views counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Thiago-Pena-Silverio&label=profile+views&color=brightgreen&style=flat-square"
+    alt="Profile views counter" />
+  
+<!-- Last commit badge -->
+  <img src="https://img.shields.io/github/last-commit/Thiago-Pena-Silverio/Thiago-Pena-Silverio?label=last%20commit&color=yellow&style=flat-square" 
+    alt="Last commit" />
+
+<!-- Total contributions badge -->
+  <img src="https://github-stats-badge.vercel.app/github/contrib/Thiago-Pena-Silverio/Thiago-Pena-Silverio?style=flat-square&color=007ec6"
+    alt="Total contributions"/>
+</p>
+
+<!-- Scrolling message -->
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=5150&pause=1000&color=00FF00&width=550&lines=Thanks+for+visiting+my+profile%2C+see+you+next+time!" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Snake Gif -->
+<p align="center">
+  <img src="https://github.com/Thiago-Pena-Silverio/Thiago-Pena-Silverio/blob/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
