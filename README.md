@@ -9,10 +9,15 @@ I'm based in Dublin, Ireland. I hold a degree in Systems Analysis and Developmen
 
 ## Selected projects
 
-- **[NYC yellow taxi trip analysis](https://github.com/Thiago-Pena-Silverio/NYC-YELLOW-TAXI-ANALYSIS)** · A two-person data project using Microsoft Fabric, PySpark and Power BI. We compared almost 78 million trips and found that the average recorded charge rose from $21.66 to $28.46 while average journey time held near 17 minutes.
-- **[A University Student’s Choice](https://github.com/Thiago-Pena-Silverio/STUDENT-CHOICE-GAME)** · A decision game written in C with Allegro 5. Players work towards graduation while balancing money, intelligence and fame across 48 simulated months.
-- **[Top Burguer](https://github.com/Thiago-Pena-Silverio/TOP-BURGUER-WEBSITE)** · A multi-page HTML and CSS site for a fictional restaurant. Visitors can browse menu items and ingredients, read reviews and find restaurant information in Portuguese.
-- **[Digital logic with Logisim](https://github.com/Thiago-Pena-Silverio/LOGISIM-EXERCISES)** · Four circuit exercises, including a three-bit adder assembled from one-bit adders and a signal-level controller.
+**[NYC yellow taxi analysis](https://github.com/Thiago-Pena-Silverio/NYC-YELLOW-TAXI-ANALYSIS)** · In a two-person project, we used PySpark and Microsoft Fabric to clean 77.9 million trips. Our Power BI report compares fares, travel times and pickup patterns across New York City.
+
+**[SwiftTrans delivery warehouse](https://github.com/Thiago-Pena-Silverio/SWIFTTRANS-DATA-WAREHOUSE)** · I built a MySQL warehouse to compare delivery punctuality across Irish routes. The SQL tracks 20 superseded records and explains which of the 2,400 deliveries qualify for the on-time rate.
+
+**[Adult income classification](https://github.com/Thiago-Pena-Silverio/ADULT-INCOME-CLASSIFICATION)** · I compared logistic regression and random forests on UCI census data. Tuning the forest increased recall for the higher-income group, while logistic regression gave more precise positive predictions.
+
+**[Crescer School Website](https://github.com/Thiago-Pena-Silverio/CRESCER-SCHOOL-WEBSITE)** · For our final degree project, our team designed a digital portfolio for CRESCER Rotary, a São Paulo nonprofit. The prototype shows how prospective donors and employers could discover the programme and how students and teachers could use the portal.
+
+**[A University Student’s Choice](https://github.com/Thiago-Pena-Silverio/STUDENT-CHOICE-GAME)** · A decision game built in C with Allegro 5. Players balance money, intelligence and fame over 48 simulated months on their way to graduation.
 
 ## About me
 
@@ -97,73 +102,4 @@ I'm from São Paulo, Brazil. I'm focusing on Python and SQL for data analysis an
 
 </details>
 
-
-<!-- Contact section -->
-<h2>📫 Connect with me:</h2>
-
-<!-- Social section with a 3-column table layout -->
-<table align="right" cellspacing="0" cellpadding="0">
-  <tr>
-<!-- Column 1: personal website link with GIF -->
-    <td align="center" valign="top" width="220" style="border:1px solid #555; padding:10px;">
-<!-- Title/link to personal website -->
-      <a href="https://www.linkedin.com/in/thiago-pena/">
-        <strong>Visit my LinkedIn</strong>
-      </a>
-      <br><br>
-<!-- GIF that also links to the website -->
-      <a href="https://www.linkedin.com/in/thiago-pena/">
-        <img src="./Images/globe.gif" alt="Globe" height="180">
-      </a>
-    </td>
-
-<!-- Column 2: Spotify link with music GIF -->
-  <td align="center" valign="top" width="220" style="border:1px solid #555; border-left:none; padding:10px;">
-<!-- Title/link to Spotify profile or playlist -->
-      <a href="https://open.spotify.com/user/22yb4kkwrecgqin3fwchpzr2q?si=334d92b34ad249c7">
-        <strong>Listen to cool music</strong>
-      </a>
-      <br><br>
-<!-- Music GIF that links to the same Spotify URL -->
-      <a href="https://open.spotify.com/user/22yb4kkwrecgqin3fwchpzr2q?si=334d92b34ad249c7">
-        <img src="./Images/music.gif" alt="Music" height="180">
-      </a>
-    </td>
-
-  </tr>
-</table>
-
-<!-- Profile views counter -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Thiago-Pena-Silverio&label=profile+views&color=brightgreen&style=flat-square"
-    alt="Profile views counter" />
-  
-<!-- Last commit badge -->
-  <img src="https://img.shields.io/github/last-commit/Thiago-Pena-Silverio/Thiago-Pena-Silverio?label=last%20commit&color=yellow&style=flat-square" 
-    alt="Last commit" />
-
-<!-- Total contributions badge -->
-  <img src="https://github-stats-badge.vercel.app/github/contrib/Thiago-Pena-Silverio/Thiago-Pena-Silverio?style=flat-square&color=007ec6"
-    alt="Total contributions"/>
-</p>
-
-<!-- Retro badges -->
-<p align="left">
-  <img src="./Images/notepad.gif" alt="Site created with Notepad" height="31">
-  <img src="./Images/ie_logo.gif" alt="Best viewed in Internet Explorer" height="31">
-  <img src="./Images/noframes.gif" alt="Campaign Against Frames" height="31">
-</p>
-
-<!-- Scrolling message -->
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=5150&pause=1000&color=00FF00&width=550&lines=Thanks+for+visiting+my+profile%2C+see+you+next+time!" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Snake Gif -->
-<p align="center">
-  <img src="https://github.com/Thiago-Pena-Silverio/Thiago-Pena-Silverio/blob/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
-
-
+[My music on Spotify](https://open.spotify.com/user/22yb4kkwrecgqin3fwchpzr2q)
